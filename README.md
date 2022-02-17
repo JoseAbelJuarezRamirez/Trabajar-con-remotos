@@ -10,3 +10,5 @@ bit clone https://github.com/bidkar/cnad-kotlin-avanzado.git
 git init
 echo "Hola" > README.md
 ```
+
+Autor: Jose Abel Juarez Ramirez
