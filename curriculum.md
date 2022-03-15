@@ -7,3 +7,4 @@ Preparatoria: UAS Universidad Autonoma De Sinaloa, Guasave Sin.
 Universidad: UAdeO, Guasave Sin.
 Posgrado: UAdeo
 Doctorado: UAdeO
+Prueba de subida
